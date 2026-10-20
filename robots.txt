@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modelo-303.dokuline.com/sitemap.xml
